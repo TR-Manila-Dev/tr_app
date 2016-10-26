@@ -47,7 +47,7 @@ maps/
 
 # eclipse specific git ignore
 *.pydevproject
-.project
+
 .metadata
 bin/**
 tmp/**
@@ -82,7 +82,7 @@ local.properties
 .recommenders
 
 # Eclipse Core
-.project
+
 
 # External tool builders
 .externalToolBuilders/
@@ -94,7 +94,7 @@ local.properties
 *.pydevproject
 
 # CDT-specific (C/C++ Development Tooling)
-.cproject
+
 
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
@@ -127,7 +127,7 @@ local.properties
 
 # eclipse specific git ignore
 *.pydevproject
-.project
+
 .metadata
 bin/**
 tmp/**
